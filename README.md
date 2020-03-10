@@ -42,6 +42,6 @@ In this repository you can find the blog posts and the peacetech canvases develo
 
 ## SPLUSH
 
-SPLUSH was an event organised after the Peace Machine project. Although, it was not officially part of the project, it was loosely connected. You can watch the whole stream of the event from YouTube.
+SPLUSH was an event organised after the Peace Machine project. Although, it was not officially part of the project, it was loosely connected. You can watch the whole stream of the event from YouTube. The organisers were Futurice, SaferGlobe and Funzi.
 
 [YouTube: SPLUSH - Peacetech in Slush](https://www.youtube.com/watch?v=Ppd7iq1cEOk)
